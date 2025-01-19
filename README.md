@@ -1,3 +1,3 @@
-Name - Aditya Kumar,
+Name - Aditya Kumar
 
 Roll - 240059
