@@ -1,0 +1,5 @@
+Accuracy of Logistic Regression Model = 95.99%
+
+Accuracy of Random Forest Model = 99.26%
+
+Accuracy of KNN Model = 99.14%
